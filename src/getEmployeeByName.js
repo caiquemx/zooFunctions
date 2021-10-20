@@ -5,7 +5,7 @@ function getEmployeeByName(employeeName) {
   if (!employeeName) {
     return {};
   }
-  return employees.filter((funcionario) => {
+  return employees.find((funcionario) => {
     if (funcionario.firstName === employeeName || funcionario.lastName === employeeName) {
       return funcionario;
     }
