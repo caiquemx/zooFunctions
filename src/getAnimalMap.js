@@ -9,6 +9,7 @@ function searchDefault() {
     if (!regions[location]) {
       regions[location] = [];
     }
+
     regions[location].push(name);
   });
   return regions;
