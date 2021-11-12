@@ -1,4 +1,3 @@
-
 // lógica inspirada: https://github.com/tryber/sd-015-b-project-zoo-functions/blob/3d970a74e783b56fbab548bfadb20757789e9dfd/src/getAnimalMap.js
 
 const { species } = require('../data/zoo_data');
