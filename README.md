@@ -1,4 +1,9 @@
-# 🚧 README em construção 🚧
+Projeto que marca a transição do módulo de fundamentos para o módulo de front-end do curso da Trybe.
+
+A proposta do projeto era utilizar as HOFs para desenvolver soluções de gerenciamento de um zoológico.
+As soluções deveriam ser inseridas dentro dos arquivos correspondentes de cada requisito (filename.js)
+para que os testes fossem realizados da forma correta.
+
 
 <!-- Olá, Tryber!
 
